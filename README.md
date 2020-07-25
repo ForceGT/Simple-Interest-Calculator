@@ -1,6 +1,6 @@
 # simple_interest
 
-An Android App To Calculate Simple Years
+An Android App To Calculate Simple Interest and is written in Flutter
 
 ## Features
  - Support for 4 different currencies
